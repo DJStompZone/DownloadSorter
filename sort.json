@@ -1,0 +1,16 @@
+{
+    "Music": [
+        ".mp3",
+        ".wma",
+        ".ogg",
+        ".wav"
+    ],
+    "Pictures": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif",
+        ".webm",
+        ".bmp"
+    ]
+}
